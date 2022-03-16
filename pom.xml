@@ -6,7 +6,7 @@
 
   <groupId>br.com.claro</groupId>
   <artifactId>archetype-demo</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.0</version>
   <packaging>maven-archetype</packaging>
 
   <name>Archetype - Quickstart Archetype</name>
